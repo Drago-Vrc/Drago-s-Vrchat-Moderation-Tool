@@ -1,0 +1,5 @@
+psutil
+requests
+Pillow
+
+# sqlite3 is part of Python's standard library (no pip package needed).
